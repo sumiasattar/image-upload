@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623306263809",
+    "firebase_url": "https://maap-aadd1.firebaseio.com",
+    "project_id": "maap-aadd1",
+    "storage_bucket": "maap-aadd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623306263809:android:6cfb5c6a8604bad9",
+        "android_client_info": {
+          "package_name": "friendsforever.fyp.app.mapactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623306263809-vhrdgg4shd6dtrp69sd1d2osed9r80et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUfRNVj91BWjDHcq68_aX-4D0IBdB2VOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623306263809-vhrdgg4shd6dtrp69sd1d2osed9r80et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
